@@ -1,0 +1,24 @@
+#body{
+border-left: solid;
+border-right: solid;
+border-top: solid;
+border-bottom:solid;
+
+border-radius: 20px;
+
+background-image:url('Untitled-1.jpg');
+background-repeat:repeat-x;
+
+}
+#time{
+font-size: 17px;
+
+ 
+
+}
+.header{
+text-align:center;
+font-size: 28px;
+
+
+}
